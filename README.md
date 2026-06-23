@@ -1,6 +1,6 @@
 # Negozio Online - Sistema di Gestione E-Commerce
 
-Un'applicazione Console in C# per la gestione di un piccolo negozio online, sviluppata come progetto d'esame SENA ADSO.
+Un'applicazione Console in C# per la gestione di un piccolo negozio online, sviluppata come progetto d'esame IFTS
 
 ## 🎯 Descrizione del Progetto
 
@@ -200,21 +200,6 @@ Questo progetto è stato sviluppato con assistenza di Claude (AI) per:
 
 La trascrizione della conversazione è disponibile nel file `AI_CONVERSATION.md`.
 
-## 📄 Licenza
-
-Progetto educativo sviluppato per il corso SENA ADSO.
-
-## ✍️ Autore
-
-**[Nome e Cognome]**  
-[Data di completamento]  
-Progetto d'esame - C# Console Application
-
----
-
-## 📞 Contatti e Feedback
-
-Per domande o suggerimenti su questo progetto, aprire una GitHub Issue o contattare direttamente.
 
 ---
 
